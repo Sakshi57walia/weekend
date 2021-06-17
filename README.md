@@ -11,7 +11,7 @@ then it will fetch the deals and then will click on the first deal that will red
 
 # prerequisite
 
-> mvn 3.5, java 8,windows operating system
+> mvn 3.5, java 8, windows operating system
 
 # How to run the application ?
 
