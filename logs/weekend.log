@@ -1,0 +1,29 @@
+[INFO ] 2021-06-17 21:18:57.815 [main] Weekend - Search with only Location 
+[INFO ] 2021-06-17 21:18:58.824 [main] Weekend - Click on Loctaion field 
+[INFO ] 2021-06-17 21:18:59.927 [main] Weekend - Enter values in location field Loctaion field 
+[INFO ] 2021-06-17 21:19:01.264 [main] Weekend - Done with Location search 
+[INFO ] 2021-06-17 21:19:01.268 [main] Weekend - Search with all Mandatory fields 
+[INFO ] 2021-06-17 21:19:02.270 [main] Weekend - Click on Loctaion field 
+[INFO ] 2021-06-17 21:19:03.449 [main] Weekend - Enter values in location field Loctaion field 
+[INFO ] 2021-06-17 21:19:04.646 [main] Weekend - Click on Radius field 
+[INFO ] 2021-06-17 21:19:06.925 [main] Weekend - Enter values in Radius field 
+[INFO ] 2021-06-17 21:19:07.755 [main] Weekend - Click on From field 
+[INFO ] 2021-06-17 21:19:07.853 [main] Weekend - Checking the month value 
+[INFO ] 2021-06-17 21:19:09.234 [main] Weekend - Click on To field 
+[INFO ] 2021-06-17 21:19:09.324 [main] Weekend - Checking the day value  
+[INFO ] 2021-06-17 21:19:10.733 [main] Weekend - Click on Guests field 
+[INFO ] 2021-06-17 21:19:10.885 [main] Weekend - Enter value in adult field 
+[INFO ] 2021-06-17 21:19:12.015 [main] Weekend - Enter value in children field 
+[INFO ] 2021-06-17 21:19:13.191 [main] Weekend - Enter value in Room field 
+[INFO ] 2021-06-17 21:19:17.497 [main] Weekend - Click on Apply button 
+[INFO ] 2021-06-17 21:19:17.584 [main] Weekend - Scrolling the window 
+[INFO ] 2021-06-17 21:19:47.612 [main] Weekend - Click on View detail  button 
+[INFO ] 2021-06-17 21:19:57.915 [main] Weekend - Done with all Mandatory fields 
+[INFO ] 2021-06-17 21:19:57.915 [main] Weekend - Search with only Dates
+[INFO ] 2021-06-17 21:19:58.929 [main] Weekend - Click on From field
+[INFO ] 2021-06-17 21:19:59.072 [main] Weekend - Checking the Starting  month value  
+[INFO ] 2021-06-17 21:19:59.112 [main] Weekend - Checking the day value  
+[INFO ] 2021-06-17 21:20:00.507 [main] Weekend - Click on To field
+[INFO ] 2021-06-17 21:20:00.578 [main] Weekend - Checking the Ending month value  
+[INFO ] 2021-06-17 21:20:00.622 [main] Weekend - Checking the day value  
+[INFO ] 2021-06-17 21:20:02.080 [main] Weekend - Done with Dates field
